@@ -32,8 +32,8 @@ Plataforma web responsiva desenvolvida para o cadastro de beneficiários, regist
 ## 🛠️ Tecnologias Utilizadas
 
 * **Front-end:** HTML5, CSS3, JavaScript
-* **Back-end:** Node.js / Python *(ajuste de acordo com o que usaram)*
-* **Banco de Dados:** PostgreSQL / MySQL *(ajuste se usaram outro)*
+* **Back-end:** Node.js / Python 
+* **Banco de Dados:** PostgreSQL / MySQL 
 * **Versionamento:** Git e GitHub
 
 ---
@@ -51,4 +51,4 @@ Plataforma web responsiva desenvolvida para o cadastro de beneficiários, regist
 
 1. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/Isolda-sistemas/sistemas-pace.git](https://github.com/Isolda-sistemas/sistemas-pace.git)
+   git clone [https://github.com/Isolda-sistemas/sistemas-pace.git]
