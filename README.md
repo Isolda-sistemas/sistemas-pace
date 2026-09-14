@@ -3,12 +3,12 @@
 Plataforma web responsiva desenvolvida para o cadastro de beneficiários, registro e controle de entregas de kits, acompanhamento da participação em atividades e geração de relatórios gerenciais para o Programa PACE[span_0](start_span)[span_0](end_span).
 
 ## 👥 Integrantes do Grupo (Grupo 01 - Curimatá)
-* Edinilva Guimarães de Oliveira[span_1](start_span)[span_1](end_span)
-* Gessirlane Pereira Castro[span_2](start_span)[span_2](end_span)
-* Ruth Costa e Silva[span_3](start_span)[span_3](end_span)
-* Ilane Rodrigues Dias[span_4](start_span)[span_4](end_span)
-* Isolda Guerra Nogueira[span_5](start_span)[span_5](end_span)
-* Diana Paula Alves dos Santos[span_6](start_span)[span_6](end_span)
+* Edinilva Guimarães de Oliveira
+* Gessirlane Pereira Castro
+* Ruth Costa e Silva
+* Ilane Rodrigues Dias
+* Isolda Guerra Nogueira
+* Diana Paula Alves dos Santos
 
 ## 🎯 Escopo do MVP (Requisitos Funcionais)
 - **RF-01 | Cadastro de Beneficiários:** Inclusão, edição, consulta e exclusão lógica de crianças, adolescentes e seus responsáveis[span_7](start_span)[span_7](end_span).
