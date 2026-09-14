@@ -29,3 +29,26 @@ Plataforma web responsiva desenvolvida para o cadastro de beneficiários, regist
 * Upload e anexo de documentos digitais.
 * Envio automático de mensagens (WhatsApp / SMS).
 * Dashboards e gráficos analíticos interativos.
+## 🛠️ Tecnologias Utilizadas
+
+* **Front-end:** HTML5, CSS3, JavaScript
+* **Back-end:** Node.js / Python *(ajuste de acordo com o que usaram)*
+* **Banco de Dados:** PostgreSQL / MySQL *(ajuste se usaram outro)*
+* **Versionamento:** Git e GitHub
+
+---
+
+## 💾 Banco de Dados (Estrutura Básica)
+
+* `TB_USUARIO` — Controle de acesso e autenticação (Coordenador / Voluntário).
+* `TB_BENEFICIARIO` — Dados das crianças, adolescentes e responsáveis.
+* `TB_ENTREGA` — Registro do fornecimento de kits e materiais.
+* `TB_PRESENCA` — Frequência diária nas atividades socioeducativas.
+
+---
+
+## 🚀 Como Executar o Projeto
+
+1. **Clonar o repositório:**
+   ```bash
+   git clone [https://github.com/Isolda-sistemas/sistemas-pace.git](https://github.com/Isolda-sistemas/sistemas-pace.git)
